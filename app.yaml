@@ -1,0 +1,8 @@
+domains:
+- testapp-d06-explaingarlic.wasmer.dev
+kind: wasmer.io/App.v0
+name: cypress1-testapp-d06
+owner: cypress1
+package: .
+scaling:
+  mode: single_concurrency
